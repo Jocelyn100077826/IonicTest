@@ -1,5 +1,7 @@
 {
-  "name": "myApp",
-  "integrations": {},
+  "name": "DynamicLinks",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

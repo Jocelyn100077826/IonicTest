@@ -5,7 +5,7 @@ import { VaultPage } from './vault.page';
 
 describe('VaultPage', () => {
   let component: VaultPage;
-  let fixture: ComponentFixture<Tab3Page>;
+  let fixture: ComponentFixture<VaultPage>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
